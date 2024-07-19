@@ -1,0 +1,15 @@
+C:\programacao senac\EscolaTeste\bin\Debug\net8.0\EscolaTeste.exe
+C:\programacao senac\EscolaTeste\bin\Debug\net8.0\EscolaTeste.deps.json
+C:\programacao senac\EscolaTeste\bin\Debug\net8.0\EscolaTeste.runtimeconfig.json
+C:\programacao senac\EscolaTeste\bin\Debug\net8.0\EscolaTeste.dll
+C:\programacao senac\EscolaTeste\bin\Debug\net8.0\EscolaTeste.pdb
+C:\programacao senac\EscolaTeste\obj\Debug\net8.0\EscolaTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacao senac\EscolaTeste\obj\Debug\net8.0\EscolaTeste.AssemblyInfoInputs.cache
+C:\programacao senac\EscolaTeste\obj\Debug\net8.0\EscolaTeste.AssemblyInfo.cs
+C:\programacao senac\EscolaTeste\obj\Debug\net8.0\EscolaTeste.csproj.CoreCompileInputs.cache
+C:\programacao senac\EscolaTeste\obj\Debug\net8.0\EscolaTeste.dll
+C:\programacao senac\EscolaTeste\obj\Debug\net8.0\refint\EscolaTeste.dll
+C:\programacao senac\EscolaTeste\obj\Debug\net8.0\EscolaTeste.pdb
+C:\programacao senac\EscolaTeste\obj\Debug\net8.0\EscolaTeste.genruntimeconfig.cache
+C:\programacao senac\EscolaTeste\obj\Debug\net8.0\ref\EscolaTeste.dll
+C:\programacao senac\EscolaTeste\obj\Debug\net8.0\EscolaTeste.csproj.AssemblyReference.cache
